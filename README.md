@@ -8,5 +8,4 @@
 ## Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amirgilani&repo=IMDB&theme=cobalt)](https://github.com/amirgilani/IMDB) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amirgilani&repo=watchlist&theme=cobalt)](https://github.com/amirgilani/watchlist)
- 
+  
